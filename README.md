@@ -56,4 +56,4 @@ The business queries have been given below
 ### 10.	VAT Analysis:
 ##### a)	Calculate the total VAT (VAT) collected for each city (city).
 ##### b)	Determine the city (city) with the highest total VAT collected.
-c)	Which customer type pays the most in VAT?
+##### c)	Which customer type pays the most in VAT?
