@@ -5,7 +5,7 @@ The main outcome of this project is to understand and answer various business ca
 The business queries has been segmented into different categories and answered using SQL queries.
 The business queries have been given below
 ### 1.	Generic Question
-a)	How many unique cities does the data have?
+##### a)	How many unique cities does the data have?
 b)	In which city is each branch?
 ### 2.	Product
 a)	How many unique product lines does the data have?
