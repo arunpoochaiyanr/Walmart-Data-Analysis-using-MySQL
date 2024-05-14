@@ -1,4 +1,3 @@
--- Walmart Data Analysis - Arun Poochaiayan R
 create database if not exists walmart_data;
 
 use walmart_data;
